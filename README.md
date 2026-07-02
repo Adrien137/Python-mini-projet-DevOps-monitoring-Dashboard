@@ -1,3 +1,6 @@
+Si les identifiants azure ne fonctionne pas, vous pouvez lancer et faire fonctionner l'api en local en téléchargent le repo
+
+
 # DevOps Monitoring Dashboard
 
 Système de monitoring temps réel construit en Python pour le projet final Day 5.
